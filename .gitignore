@@ -1,14 +1,5 @@
-# venv & cache
-.venv*/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Streamlit local secrets
-.streamlit/secrets.toml
-secrets.toml
-
-# OS files
+﻿.venv*/
+**/__pycache__/
 .DS_Store
-Thumbs.db
+.streamlit/secrets.toml
+*.log

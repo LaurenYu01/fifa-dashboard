@@ -4,3 +4,4 @@ google-cloud-bigquery==3.25.0
 google-auth==2.33.0
 pyarrow>=14.0.1
 pandas-gbq==0.22.0
+db-dtypes==1.4.3
